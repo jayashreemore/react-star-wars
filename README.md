@@ -35,3 +35,4 @@ To run the Starship Viewer App locally:
 
 
 # react-star-wars
+it was giving error so $ npm install axios for axios ...then Re-optimizing dependencies because lockfile has changed now its working ...was not sure about it so tried 1st to run and then created repo at last.
